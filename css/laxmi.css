@@ -108,7 +108,7 @@
     
     min-height:20%;
     
-    margin-top:-56px;
+    margin-top:-30px;
     
     }
     
@@ -450,13 +450,9 @@
     }
     
     .calorie_bg{
-    
-    background-image:url(../images/placeholder/container-center-banner.png);
-    
-    
-    
+      background-image:url(../images/placeholder/container-center-banner.png);
       background-size: cover;
-    
+      padding-bottom: 60px;
     }
     
     .count_plan_bg{
